@@ -1,6 +1,6 @@
 # KNN Regression Project
 
-This repository demonstrates the implementation of **K-Nearest Neighbors (KNN) Regression** using Python and scikit-learn. The project predicts target values based on a given dataset, visualizes the results, and evaluates the model's performance.
+This repository demonstrates the implementation of **K-Nearest Neighbors (KNN) Regression** using Python and scikit-learn. The project predicts target values based on a given dataset, visualizes the results, and evaluates the model's performance. This is one of the unsupervised machine learning algorithms.
 
 ## Features
 - Train-test split for model evaluation.
